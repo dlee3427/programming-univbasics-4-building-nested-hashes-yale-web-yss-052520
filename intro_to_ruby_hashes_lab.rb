@@ -22,5 +22,5 @@ def monopoly_with_fourth_tier
 
 end
 
-monopoly_with_fourth_tier[transportation][:railroads][:names][:reading_railroad] = { mortgage_value: 100}
+monopoly_with_fourth_tier[:railroads][:names][:reading_railroad] = { mortgage_value: 100}
 
