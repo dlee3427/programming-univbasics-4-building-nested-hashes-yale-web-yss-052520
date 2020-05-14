@@ -22,5 +22,5 @@ def monopoly_with_fourth_tier
 
 end
 
-monopoly_with_fourth_tier[transportation][:railroads][:names][:reading_railroad][0] << mortgage_value: 100
+transportation[:reading_railroad] << mortgage_value: 100
 
